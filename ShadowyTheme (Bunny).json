@@ -1,0 +1,182 @@
+{
+    "name": "Shadowy Theme",
+    "description": "Edited It's Purple!! theme by Kking, edited by Zero Unhope for personal use",
+    "authors": [
+        {
+            "name": "Zero Unhope",
+            "id": "007"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#8f0707"
+        ],
+        "HEADER_SECONDARY": [
+            "#a1a1a1"
+        ],
+        "TEXT_NORMAL": [
+            "#757575"
+        ],
+        "TEXT_PRIMARY": [
+            "#a1a1a1"
+        ],
+        "TEXT_MUTED": [
+            "#a1a1a1"
+        ],
+        "DIVIDER_SUBTLE": [
+            "#8f0707"
+        ],
+        "TEXT_DANGER": [
+            "#8f0707"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#8f0707"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#8f0707"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#8f0707"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#696969"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#0a0a0a"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#0a0a0a"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#0a0a0a"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#8f0707"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#0a0a0a"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#0a0a0a"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#1c0101"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#0a0a0a"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#0a0a0a"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#0a0a0a"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#1c0101"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "transparent"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "0a0a0a"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "000000"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#8f0707"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#000000"
+        ],
+        "PANEL_BG": [
+            "0a0a0a"
+        ],
+        "KEYBOARD": [
+            "#000000"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#8f0707"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#0a0a0a"
+        ],
+        "CHANNEL_ICON": [
+            "#8f0707"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BORDER": [
+            "#757575"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#8f0707"
+        ],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "0a0a0a"
+        ],
+        "REDESIGN_CHANNEL_NAME_TEXT": [
+            "#8f0707"
+        ],
+        "BORDER_FAINT": [
+            "#300101"
+        ],
+        "BORDER_STRONG": [
+            "#000000"
+        ],
+        "BORDER_SUBTLE": [
+            "#300101"
+        ],
+        "CHAT_BACKGROUND": [
+            "#000000"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#141414"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY": "#8f0707",
+        "PRIMARY_100": "#8f0707",
+        "PRIMARY_200": "#FFFFFF",
+        "PRIMARY_300": "#8f0707",
+        "PRIMARY_360": "#8f0707",
+        "PRIMARY_400": "#8f0707",
+        "PRIMARY_500": "#000000",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
+        "BRAND_360": "#a61f1f",
+        "YELLOW_300": "#8f0707",
+        "BRAND_260": "#e80000",
+        "BRAND_500": "#e80000",
+        "BRAND_560": "#8f0707",
+        "GREEN_360": "#ff0000",
+        "RED_400": "#8f0707",
+        "ORANGE_345": "#8f0707",
+        "RED_560": "#0e8499",
+        "GREEN_345": "#8f0707",
+        "BLUE_345": "#cc1d43",
+        "PLUM_3": "#8f0707",
+        "PLUM_15": "0a0a0a",
+        "PLUM_16": "0a0a0a",
+        "PLUM_17": "0a0a0a",
+        "PLUM_18": "0a0a0a",
+        "PLUM_19": "0a0a0a",
+        "PLUM_20": "0a0a0a"
+    },
+    "spec": 2,
+    "background": {
+        "url": "https://i.imgur.com/aVuo9OU.png",
+        "alpha": 0.5,
+        "color": "#081924"
+    }
+}
